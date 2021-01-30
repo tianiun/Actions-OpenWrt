@@ -22,8 +22,6 @@ git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 git clone https://github.com/frainzy1477/luci-app-clash.git package/luci-app-clash
 git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 git clone https://github.com/jerrykuku/luci-app-ttnode.git package/luci-app-ttnode
-git clone https://github.com/tianiue/luci-app-koolproxyR.git package/luci-app-koolproxyR
-git clone https://github.com/tianiue/iptvhelper.git package/iptvhelper
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
