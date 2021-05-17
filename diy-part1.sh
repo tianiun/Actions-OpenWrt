@@ -28,6 +28,6 @@ git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 git clone https://github.com/lisaac/luci-lib-docker.git package/luci-lib-docker
 git clone https://github.com/garypang13/luci-app-dnsfilter.git package/luci-app-dnsfilter
-git clone https://github.com/tianiun/luci-app-bypass.git package/luci-app-bypass
+git clone https://github.com/tianiue/luci-app-bypass.git package/luci-app-bypass
 git clone https://github.com/esirplayground/luci-app-LingTiGameAcc.git package/luci-app-LingTiGameAcc
 git clone https://github.com/esirplayground/LingTiGameAcc.git package/LingTiGameAcc
